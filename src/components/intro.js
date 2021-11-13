@@ -7,7 +7,7 @@ export default function Intro() {
         Blog.
       </h1>
       <h4 className="text-center md:text-left text-lg mt-5 md:pl-8">
-        A statically generated blog example using 1WealthStreet Marketing Team
+        A statically generated blog example from the 1WealthStreet Marketing Team
       </h4>
     </section>
   )
